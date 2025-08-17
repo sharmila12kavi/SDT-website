@@ -1,0 +1,21 @@
+{
+  "name": "Skill Decode Tech",
+  "short_name": "SkillDecode",
+  "description": "Technology Education Institute - From Code to Creativity",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
